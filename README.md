@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
