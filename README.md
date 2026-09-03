@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0319-bulb-switcher) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
