@@ -13,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0013-roman-to-integer) |
 | [0319-bulb-switcher](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0319-bulb-switcher) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/AshuShekhar07/leetcode-solutions101/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
