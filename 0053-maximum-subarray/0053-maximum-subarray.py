@@ -4,8 +4,8 @@ class Solution:
         curr_sum = nums[0]
         best_sum = nums[0]
 
-        for x in nums[1:]:
-            curr_sum = max(x, curr_sum + x)
+        for i in nums[1:]:
+            curr_sum = max(i, curr_sum + i)
             best_sum = max(best_sum, curr_sum)
 
         return best_sum
